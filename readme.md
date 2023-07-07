@@ -7,3 +7,5 @@ To run the application type the command:
 ```
 python main.py
 ```
+
+Then navigate to the URL: http://localhost:8000/
