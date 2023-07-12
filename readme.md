@@ -3,7 +3,7 @@ To install the packages run the command:
 pip install sentry-sdk aiohttp
 ```
 
-To run the application type the command:
+Navigate to the main.py file and run the application:
 ```
 python main.py
 ```
